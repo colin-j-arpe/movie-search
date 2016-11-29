@@ -1,0 +1,7 @@
+#movie-poster-container	{
+	width:	400px;
+	min-height: 200px;
+	background-color: #e0e0e0;
+	border: 2px solid #202020;
+	margin-bottom: 20px;
+}
